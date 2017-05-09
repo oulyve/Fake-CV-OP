@@ -1,0 +1,42 @@
+.nice-font{
+    font-family:Roboto, Geneva, Tahoma, sans-serif;
+    background:lightgray;
+    text-align: center    
+}
+
+body {
+background: white url(http://www.mediadvance.com/site_fichiers/fond2.jpg) no-repeat center;
+}
+
+.container{
+    background-color: white
+    }
+
+.subtitle{
+    color:brown;
+}
+
+.flotte {
+float:right;
+overflow:hidden;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:30px;
+margin: 0 70px 10px 10px;
+}
+
+.txt{
+    margin-left:30px;
+}
+h3{text-transform: uppercase
+}
+.col-md-6{
+border-left: 1px solid grey;
+}
+.row{
+border-bottom: 1px solid grey;
+border-spacing: 10px;
+border-inline-start: 10px;
+}
+
+}
